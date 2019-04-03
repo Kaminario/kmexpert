@@ -1,0 +1,9 @@
+.idea/
+*.pyc
+*.history
+*.make
+.cache/
+dist/
+MANIFEST
+*.egg-info
+*.egg-info/
