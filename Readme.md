@@ -13,7 +13,7 @@ The library code may be directly sourced or Kmexpert-<version>.tar.gz archive ca
 
 # Usage
 See the main_example.py and example_procedure.py for the example usage.
-![Help interface](https://github.com/Kaminario/kmexpert/blob/master/example1.py)
+![Help interface](https://github.com/Kaminario/kmexpert/blob/master/example1.JPG)
 
 ![Run example](https://github.com/Kaminario/kmexpert/blob/master/example2.py)
 
