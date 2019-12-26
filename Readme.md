@@ -15,7 +15,7 @@ The library code may be directly sourced or Kmexpert-<version>.tar.gz archive ca
 See the main_example.py and example_procedure.py for the example usage.
 ![Help interface](https://github.com/Kaminario/kmexpert/blob/master/example1.JPG)
 
-![Run example](https://github.com/Kaminario/kmexpert/blob/master/example2.py)
+![Run example](https://github.com/Kaminario/kmexpert/blob/master/example2.JPG)
 
 # Architecture
 Each procedure step is represented by a python class. During the procedure evaluation, the stack of step objects is built up and the execution context is updated and propagated forward. Each step object on the stack preserves its execution context copy, thus enabling step back operations.
